@@ -1,1 +1,1 @@
-<img src="cavalo.png" width="100px"/>
+<img src="D:\Estágio\foto dos mobiliários\cavalo.png" width="100px"/>
