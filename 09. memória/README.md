@@ -1,1 +1,1 @@
-<img src="https://github.com/estudiomaisum/Mobiliarios_para_primeira_infancia/assets/135167314/9587e65c-a69a-4b1a-b6a9-7a064467773c" width="550px"/>
+<img src="https://github.com/estudiomaisum/Mobiliarios_para_primeira_infancia/assets/135167314/5d0ea132-8383-4a76-8caa-3c07de644d17" width="550px"/>
